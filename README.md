@@ -4,7 +4,7 @@
 
 ## 用法
 
-引用
+引用, 参照 ./test.js
 
 ```js
 let fs = require("fs");
